@@ -1,5 +1,0 @@
-golangcafe
-==========
- 
- weekly golang meeting
- 
